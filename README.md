@@ -27,6 +27,13 @@ Then right click > Extract here (the necessary files will be added to the packs 
 
 Then, return to reffect ingame and refresh packs.
 
+Finally, choose the round or diamond option you prefer:
+
+<img width="224" height="111" alt="image" src="https://github.com/user-attachments/assets/5e814c31-a397-4453-aa2f-b0711726f6b3" />
+
+<img width="602" height="218" alt="image" src="https://github.com/user-attachments/assets/2ef950a9-c119-4b01-b30a-9f339f08f9ea" />
+
+
 # Notes
 
 This effect is made with Normal interface size. If you use a different one, you can resize all the elements at once by right-clicking on the pack and selecting resize. Alternatively, you can move the pack's position on screen if needed, though it should be aligned by default.
